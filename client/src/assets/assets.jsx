@@ -1,5 +1,6 @@
 import logo from './logo.svg';
-import { Youtube, Instagram, Music2, Facebook, Twitter, Linkedin, Pin, Camera, Gamepad2, MessageCircle } from 'lucide-react';
+import { Music2, Pin, Camera, Gamepad2, MessageCircle } from 'lucide-react';
+import { FaYoutube as Youtube, FaInstagram as Instagram, FaFacebook as Facebook, FaTwitter as Twitter, FaLinkedin as Linkedin } from 'react-icons/fa';
 import image_1 from './image_1.jpg';
 import image_2 from './image_2.jpg';
 import image_3 from './image_3.jpg';
