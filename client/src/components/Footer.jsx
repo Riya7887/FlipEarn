@@ -33,9 +33,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <p className="py-4 text-center border-t mt-6 border-slate-200">
-                    Copyright 2025 © GreatStack All Right Reserved.
-                </p>
+                
             </footer>
       
     </>
